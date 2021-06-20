@@ -1,1 +1,1 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+If you can't access this application from https://www.garden-manager.me/ that is normal. This application has been deleted from Heroku after the RNCP certification. You can contact chenchenzheng42@gmail.com for more informations.
